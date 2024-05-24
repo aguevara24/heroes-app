@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "id": "1",
-      "usuario": "John Doe",
+      "id": 1,
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -11,10 +11,17 @@
       "id": "dc-batman",
       "superhero": "Batman",
       "publisher": "DC Comics",
-      "alter_ego": "Bruce Waynes",
+      "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne",
-      "alt_img": null
+      "characters": "Bruce Wayne"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El"
     },
     {
       "id": "dc-flash",
@@ -159,15 +166,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "",
-      "superhero": "Alfredo",
-      "publisher": "DC Comics",
-      "alter_ego": "Strider",
-      "first_appearance": "Udemy #45 Comics",
-      "characters": "Strider, Mr-No",
-      "alt_img": "https://i.pinimg.com/originals/a9/22/d5/a922d5e490bb63ff8e79cb912f7b4d63.jpg"
     }
   ]
 }
